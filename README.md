@@ -23,4 +23,5 @@ Open python3 cli in your terminal
 To decompress the file -
 
 Use that same object "H" to call the decompress function, pass the path of compressed file as a parameter
+
 ## H.decompress('/Users/sarvagya/Desktop/Python projects/huffman_proj/sample.bin')
